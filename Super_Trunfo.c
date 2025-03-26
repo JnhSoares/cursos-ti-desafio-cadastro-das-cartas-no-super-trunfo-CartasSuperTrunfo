@@ -4,8 +4,8 @@ printf("Super Trunfo - Países!\n");
 
 //Variáveis 1
 char estado1, estado2 = 'A';
-char codigo1[4], codigo2[4] = "A01";
-char cidade1[30], cidade2[30] = "Osasco";
+char codigo1[4], codigo2[4];
+char cidade1[30], cidade2[30];
 int populacao1, populacao2;
 float area1, area2;
 float PIB1, PIB2;
